@@ -32,4 +32,4 @@ npm run dev
 
 ## Screenshots
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
