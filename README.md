@@ -20,16 +20,18 @@ A full-stack CRUD application built using MongoDB, Express, React, and Node.js.
 
 ### Backend
 
-cd backend
+cd mern_backend
 npm install
 npm run dev
 
 ### Frontend
 
-cd frontend
+cd mern_frontend
 npm install
 npm run dev
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/skauth47/mern_crud_dashboard/blob/main/screenshots/dashboard.PNG)
+![AddUser](https://github.com/skauth47/mern_crud_dashboard/blob/main/screenshots/add_user.PNG)
+![EditUser](https://github.com/skauth47/mern_crud_dashboard/blob/main/screenshots/edit_user.PNG)
